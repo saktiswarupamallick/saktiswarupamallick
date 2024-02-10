@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saktiswarupamallick" alt="saktiswarupamallick" /></a> </p>
 
-- 🔭 I’m currently working on Notion Clone
+- 
 
 - 👯 I’m looking to collaborate on [Inventory Management Software](saktiswarupamallick/inventory-management-system)
 
