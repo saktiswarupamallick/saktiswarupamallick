@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sakti Swarupa Mallick</h1>
 <h3 align="center">Crafting Scalable and Modern Web Solutions with MERN | Full-Stack Developer | Passionate about Building Engaging User Experiences</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saktiswarupamallick" alt="saktiswarupamallick" /></a> </p>
+
 
 
 
